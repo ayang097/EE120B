@@ -1,7 +1,7 @@
-/*	Author: lab
+/*	Author: AARON YANG
  *  Partner(s) Name: 
  *	Lab Section:
- *	Assignment: Lab #  Exercise #
+ *	Assignment: Lab 8  Exercise # 1
  *	Exercise Description: [optional - include for your own benefit]
  *      DEMO:https://youtu.be/4RSy89mEdc4
  *	I acknowledge all content contained herein, excluding template or example
