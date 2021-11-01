@@ -1,9 +1,9 @@
 /*	Author: lab
  *  Partner(s) Name: 
  *	Lab Section:
- *	Assignment: Lab #  Exercise #
+ *	Assignment: Lab # 8 Exercise # 4
  *	Exercise Description: [optional - include for your own benefit]
- *
+ *	DEMO: https://youtu.be/KGFBDg4xE60
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
  */
